@@ -1,8 +1,6 @@
 {
   "name": "nodejs-swampup",
-  "publishConfig": {
-    "registry": "http://35.188.216.43:80/artifactory/api/npm/npm-local/"
-  },
+  "publishConfig":{"registry":"http://jfrog.local/artifactory/api/npm/test-matt-node-virt/"},
   "version": "0.5.19",
   "description": "Node.js Sample Application",
   "main": "server.js",
